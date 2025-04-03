@@ -2,110 +2,110 @@
     "monoSources": 16,
     "stereoSources": 8,
     "ambisonicSources": 3,
-    "rootFolderPath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary",
+    "rootFolderPath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary",
     "categories": [
         {
             "categoryName": "Affoltern",
             "audioItems": [
                 {
                     "displayName": "Ambix_AnhohePlayground",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_AnhohePlayground.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_AnhohePlayground.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Anhohe_Feldweg",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Anhohe_Feldweg.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Anhohe_Feldweg.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Anhohe_Unterdorf",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Anhohe_Unterdorf.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Anhohe_Unterdorf.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Forest_dirKatzensee",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Forest_dirKatzensee.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Forest_dirKatzensee.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_HighWay",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_HighWay.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_HighWay.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_InBlock",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_InBlock.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_InBlock.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Drinkfontain",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Drinkfontain.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Drinkfontain.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_DrinkFontain_nearHW",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_DrinkFontain_nearHW.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_DrinkFontain_nearHW.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Playground",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Playground.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Playground.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Playground_nearHW",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Playground_nearHW.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Playground_nearHW.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Pos1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Pos2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Pos3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Ueberdeckung_Pos4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos4.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Ueberdeckung_Pos4.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Unterdorf",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Unterdorf.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Unterdorf.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Unterdorf_Middle",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Unterdorf_Middle.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Unterdorf_Middle.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Ambix_Wehntalerstrasse",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Affoltern\\Ambix_Wehntalerstrasse.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Affoltern\\Ambix_Wehntalerstrasse.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -115,98 +115,68 @@
             "categoryName": "Ambisonics",
             "audioItems": [
                 {
-                    "displayName": "._Atmo_Urban_ZH_Rain_light",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\._Atmo_Urban_ZH_Rain_light.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Atmo_Urban_ZH_Rain_medium",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\._Atmo_Urban_ZH_Rain_medium.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Atmo_Urban_ZH_Rain_strong",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\._Atmo_Urban_ZH_Rain_strong.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Atmo_Urban_ZH_Rain_strong_thunder",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\._Atmo_Urban_ZH_Rain_strong_thunder.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Atmo_Wind_Suburbs",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\._Atmo_Wind_Suburbs.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "Atmo_Urban_HumanPresence_Voices_French_Construction",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_HumanPresence_Voices_French_Construction.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_HumanPresence_Voices_French_Construction.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_Wind_HumanPresence_Steps",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_HumanPresence_Steps.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_HumanPresence_Steps.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_Wind_HumanPresence_Steps_Voices_French",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_HumanPresence_Steps_Voices_French.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_HumanPresence_Steps_Voices_French.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_Wind_Rain_light",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_Wind_Rain_light_Thunder",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light_Thunder.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light_Thunder.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_Wind_Rain_light_Umbrella",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light_Umbrella.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_Wind_Rain_light_Umbrella.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_ZH_Rain_light",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_light.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_light.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_ZH_Rain_medium",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_medium.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_medium.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_ZH_Rain_strong",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_strong.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_strong.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Urban_ZH_Rain_strong_thunder",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_strong_thunder.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Urban_ZH_Rain_strong_thunder.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Atmo_Wind_Suburbs",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Wind_Suburbs.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Ambisonics\\Atmo_Wind_Suburbs.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -217,103 +187,103 @@
             "audioItems": [
                 {
                     "displayName": "Blackbirds_calls_alarm",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Blackbirds_calls_alarm.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Blackbirds_calls_alarm.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Blue_tit_calls",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Blue_tit_calls.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Blue_tit_calls.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Crow_single_calls_less",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Crow_single_calls_less.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Crow_single_calls_less.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Crow_single_calls_more",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Crow_single_calls_more.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Crow_single_calls_more.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Eurasian_collared_dove_calls_noPause",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Eurasian_collared_dove_calls_noPause.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Eurasian_collared_dove_calls_noPause.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Eurasian_collared_dove_calls_pause",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Eurasian_collared_dove_calls_pause.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Eurasian_collared_dove_calls_pause.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "House_sparrow_calls",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\House_sparrow_calls.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\House_sparrow_calls.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Italy_sparrow_calls",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Italy_sparrow_calls.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Italy_sparrow_calls.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Jackdaw_calls",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Jackdaw_calls.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Jackdaw_calls.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Mallard_duck_noPause",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Mallard_duck_noPause.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Mallard_duck_noPause.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Mallard_duck_pause",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Mallard_duck_pause.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Mallard_duck_pause.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Red_kite_calls",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Red_kite_calls.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Red_kite_calls.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Seagull_calls_inFlight",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Seagull_calls_inFlight.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Seagull_calls_inFlight.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Sparrow_single_calls_less",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Sparrow_single_calls_less.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Sparrow_single_calls_less.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Sparrow_single_calls_more",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Sparrow_single_calls_more.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Sparrow_single_calls_more.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Swallow_inFlight_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Swallow_inFlight_loop.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Swallow_inFlight_loop.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Swifts_calls_inFlight",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Birds\\Swifts_calls_inFlight.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Birds\\Swifts_calls_inFlight.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -323,98 +293,50 @@
             "categoryName": "Cars",
             "audioItems": [
                 {
-                    "displayName": "._Car_engine_highway_1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_highway_1.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_highway_2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_highway_2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_highway_3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_highway_3.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_low_Gear3x",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_low_Gear3x.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_low_mashed",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_low_mashed.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_low_old",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_low_old.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_low_old_2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_low_old_2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Car_engine_low_WVTuareg",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\._Car_engine_low_WVTuareg.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "Car_engine_highway_1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_highway_2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_highway_3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_highway_3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_low_Gear3x",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_low_Gear3x.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_low_Gear3x.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_low_mashed",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_low_mashed.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_low_mashed.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_low_old",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_low_old.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_low_old.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_low_old_2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_low_old_2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_low_old_2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Car_engine_low_WVTuareg",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Cars\\Car_engine_low_WVTuareg.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Cars\\Car_engine_low_WVTuareg.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -424,14 +346,8 @@
             "categoryName": "Planes",
             "audioItems": [
                 {
-                    "displayName": "._Einzelsound_Mono_FA18",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Planes\\._Einzelsound_Mono_FA18.aiff",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "Einzelsound_Mono_FA18",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Planes\\Einzelsound_Mono_FA18.aiff",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Planes\\Einzelsound_Mono_FA18.aiff",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -441,38 +357,20 @@
             "categoryName": "Trains",
             "audioItems": [
                 {
-                    "displayName": "._Train_01_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\._Train_01_loop.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Train_02_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\._Train_02_loop.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._Train_03_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\._Train_03_loop.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "Train_01_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\Train_01_loop.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Trains\\Train_01_loop.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Train_02_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\Train_02_loop.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Trains\\Train_02_loop.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Train_03_loop",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\Trains\\Train_03_loop.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\Trains\\Train_03_loop.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -482,104 +380,98 @@
             "categoryName": "ZuerichHB/Bahnhof_App",
             "audioItems": [
                 {
-                    "displayName": "._Grundatmo_IndenLueften",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\._Grundatmo_IndenLueften.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "AufGeleise6_7_Anfang",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleise6_7_Anfang.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleise6_7_Anfang.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "AufGeleise6_7_Mitte",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleise6_7_Mitte.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleise6_7_Mitte.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "AufGeleis_Mitte",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "AufGeleis_Mitte_Liftfahrt",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte_Liftfahrt.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte_Liftfahrt.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "AufGeleis_Mitte_Zugabfahrt",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte_Zugabfahrt.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\AufGeleis_Mitte_Zugabfahrt.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Banhofshalle_Mitte_GA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_Mitte_GA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_Mitte_GA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Banhofshalle_RichtungBahnhofsquai_Mitte",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungBahnhofsquai_Mitte.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungBahnhofsquai_Mitte.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Banhofshalle_RichtungGeleise_Links",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Links.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Links.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Banhofshalle_RichtungGeleise_Mitte",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Mitte.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Mitte.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Banhofshalle_RichtungGeleise_Rechts",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Rechts.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Banhofshalle_RichtungGeleise_Rechts.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Bruecke_Europalleee_01",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Bruecke_Europalleee_01.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Bruecke_Europalleee_01.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Bruecke_Europalleee_leise_Stimmen",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Bruecke_Europalleee_leise_Stimmen.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Bruecke_Europalleee_leise_Stimmen.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Grundatmo_IndenLueften",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenLueften.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenLueften.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Shopville_Guitarsolo",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Shopville_Guitarsolo.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Shopville_Guitarsolo.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "UnterAnzeigetafel_01",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\UnterAnzeigetafel_01.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\UnterAnzeigetafel_01.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "Untergrund_Gleis34_33",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Untergrund_Gleis34_33.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Untergrund_Gleis34_33.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -589,170 +481,86 @@
             "categoryName": "ZuerichHB/LA_Recordings/ambix",
             "audioItems": [
                 {
-                    "displayName": "._HB_Bahnhofsplatz_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Bahnhofsplatz_AmbeoA.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Bahnhofsplatz_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Bahnhofsplatz_AmbeoB.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Bahnhofsplatz_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Bahnhofsplatz_AmbeoC.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Central_AmbeoA.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Central_AmbeoC.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Europaplatz_AmbeoA.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Europaplatz_AmbeoB.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Europaplatz_AmbeoC.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Landesmuseum_AmbeoA.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Landesmuseum_AmbeoB.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Landesmuseum_AmbeoC.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Zollstrasse_AmbeoA.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Zollstrasse_AmbeoB.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\._HB_Zollstrasse_AmbeoC.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "HB_Bahnhofsplatz_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Bahnhofsplatz_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoB.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoB.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Bahnhofsplatz_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoC.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Bahnhofsplatz_AmbeoC.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Central_AmbeoA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Central_AmbeoA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Central_AmbeoC.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Central_AmbeoC.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoB.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoB.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoC.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Europaplatz_AmbeoC.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoB.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoB.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoC.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Landesmuseum_AmbeoC.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_AmbeoA",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoA.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoA.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_AmbeoB",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoB.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoB.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_AmbeoC",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoC.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\ambix\\HB_Zollstrasse_AmbeoC.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
@@ -762,266 +570,134 @@
             "categoryName": "ZuerichHB/LA_Recordings/stereo",
             "audioItems": [
                 {
-                    "displayName": "._HB_Central_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom1.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom3.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom4.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_Zoom5",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom5.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Central_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Central_Zoom6.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Europaplatz_Zoom1.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Europaplatz_Zoom2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Europaplatz_Zoom3.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Europaplatz_Zoom4.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Europaplatz_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Europaplatz_Zoom6.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Landesmuseum_Zoom1.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Landesmuseum_Zoom2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Landesmuseum_Zoom3.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Landesmuseum_Zoom4.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Landesmuseum_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Landesmuseum_Zoom6.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom1.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom2.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom3.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom4.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom5",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom5.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
-                    "displayName": "._HB_Zollstrasse_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\._HB_Zollstrasse_Zoom6.wav",
-                    "parametersFilePath": "",
-                    "parameters": []
-                },
-                {
                     "displayName": "HB_Central_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom4.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom4.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_Zoom5",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom5.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom5.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Central_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom6.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Central_Zoom6.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom4.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom4.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Europaplatz_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom6.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Europaplatz_Zoom6.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom4.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom4.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Landesmuseum_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom6.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Landesmuseum_Zoom6.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom1",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom1.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom1.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom2",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom2.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom2.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom3",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom3.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom3.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom4",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom4.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom4.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom5",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom5.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom5.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 },
                 {
                     "displayName": "HB_Zollstrasse_Zoom6",
-                    "audioFilePath": "C:/Users/daniebor/Downloads/ISG_All_250227/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom6.wav",
+                    "audioFilePath": "D:/Downloads/ISG/ISG_All_250220/03_ISG_AudioLibrary\\ZuerichHB\\LA_Recordings\\stereo\\HB_Zollstrasse_Zoom6.wav",
                     "parametersFilePath": "",
                     "parameters": []
                 }
