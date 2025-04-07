@@ -4,6 +4,7 @@ using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 using Unity.VisualScripting;
+using System.Runtime.InteropServices;
 
 public class SceneManager : MonoBehaviour
 {
@@ -236,7 +237,16 @@ public class SceneManager : MonoBehaviour
             if (ambientSoundFile != lastSentAmbientSoundFile && !string.IsNullOrEmpty(ambientSoundFile))
             {
                 OscMessage message = new OscMessage { address = "/source/bformat/1/soundpath" };
-                message.values.Add(ambientSoundFile);
+
+                string filePath = ambientSoundFile;
+
+                // Check if the operating system is Windows
+                if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                {
+                    filePath = filePath.Replace("\\", "/");
+                }
+
+                message.values.Add(filePath);
                 osc.Send(message);
                 lastSentAmbientSoundFile = ambientSoundFile;
             }
