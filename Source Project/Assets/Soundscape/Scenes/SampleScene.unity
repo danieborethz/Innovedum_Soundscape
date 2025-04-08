@@ -779,6 +779,67 @@ MonoBehaviour:
   selectedFoliageTypeIndex: 1
   leavesTreeSize: 2.83
   sourceSelection: 4
+--- !u!1001 &841105919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1907077900}
+    m_Modifications:
+    - target: {fileID: 100122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_Name
+      value: robin
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9cc778d5dda0a1a4c8a49555bf38e106, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
 --- !u!1001 &843777454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -988,6 +1049,864 @@ MonoBehaviour:
   selectedFoliageTypeIndex: 1
   leavesTreeSize: 2.83
   sourceSelection: 4
+--- !u!1 &976409962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 976409968}
+  - component: {fileID: 976409967}
+  - component: {fileID: 976409965}
+  - component: {fileID: 976409964}
+  - component: {fileID: 976409963}
+  m_Layer: 0
+  m_Name: 'Bird '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &976409963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976409962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaa0194818449e46833a5f44dba5189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sourceTypes:
+  - mono
+  - stereo
+  - multi
+  _cacheFilePath: Assets/AudioDataCache.json
+  selectedCategoryIndex: 2
+  selectedCategoryName: Birds
+  selectedAudioIndex: 2
+  selectedAudioName: Crow_single_calls_less
+  sourceTypeSelection: 0
+  sourceSelection: 0
+  multiSize: 1
+  monoSources: 16
+  stereoSources: 8
+  multiSources: 3
+  audioLibrary:
+    monoSources: 16
+    stereoSources: 8
+    ambisonicSources: 3
+    rootFolderPath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary
+    categories:
+    - categoryName: Ambisonics
+      audioItems:
+      - displayName: Atmo_InnerCity_ZH_Rain
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Atmo_InnerCity_ZH_Rain_Thunder
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain_Thunder.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Rain_6min_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Rain_6min_loop.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Birds
+      audioItems:
+      - displayName: Blackbirds_calls_alarm
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blackbirds_calls_alarm.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Blue_tit_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blue_tit_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Crow_single_calls_less
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_less.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Crow_single_calls_more
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_more.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Eurasian_collared_dove_calls_noPause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_noPause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Eurasian_collared_dove_calls_pause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_pause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: House_sparrow_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\House_sparrow_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Italy_sparrow_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Italy_sparrow_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Jackdaw_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Jackdaw_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Mallard_duck_noPause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_noPause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Mallard_duck_pause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_pause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Red_kite_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Red_kite_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Seagull_calls_inFlight
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Seagull_calls_inFlight.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Sparrow_single_calls_less
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_less.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Sparrow_single_calls_more
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_more.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Swallow_inFlight_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swallow_inFlight_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Swifts_calls_inFlight
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swifts_calls_inFlight.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Cars
+      audioItems:
+      - displayName: Car_engine_highway_1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_highway_2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_highway_3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_Gear3x
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_mashed
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_old
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_old_2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_WVTuareg
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Planes
+      audioItems:
+      - displayName: Einzelsound_Mono_FA18
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Planes\Einzelsound_Mono_FA18.aiff
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Trains
+      audioItems:
+      - displayName: Train_01_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_01_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Train_02_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_02_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Train_03_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_03_loop.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/Bahnhof_App
+      audioItems:
+      - displayName: AufGeleise6_7_Anfang
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Anfang.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleise6_7_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte_Liftfahrt
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Liftfahrt.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte_Zugabfahrt
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Zugabfahrt.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_Mitte_GA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_Mitte_GA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungBahnhofsquai_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungBahnhofsquai_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Links
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Links.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Rechts
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Rechts.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Br\xFCcke_Europalleee_01"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_01.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Br\xFCcke_Europalleee_leise_Stimmen"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_leise_Stimmen.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Grundatmo_IndenL\xFCften"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenL\xFCften.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: Shopville_Guitarsolo
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Shopville_Guitarsolo.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: UnterAnzeigetafel_01
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\UnterAnzeigetafel_01.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Untergrund_Gleis34_33
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Untergrund_Gleis34_33.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/LA_Recordings/ambix
+      audioItems:
+      - displayName: HB_Bahnhofsplatz_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Bahnhofsplatz_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Bahnhofsplatz_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/LA_Recordings/stereo
+      audioItems:
+      - displayName: HB_Central_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom5
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom5.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom5
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom5.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+  categories:
+  - categoryName: Ambisonics
+    audioItems:
+    - displayName: Atmo_InnerCity_ZH_Rain
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Atmo_InnerCity_ZH_Rain_Thunder
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain_Thunder.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Rain_6min_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Rain_6min_loop.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Birds
+    audioItems:
+    - displayName: Blackbirds_calls_alarm
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blackbirds_calls_alarm.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Blue_tit_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blue_tit_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Crow_single_calls_less
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_less.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Crow_single_calls_more
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_more.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Eurasian_collared_dove_calls_noPause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_noPause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Eurasian_collared_dove_calls_pause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_pause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: House_sparrow_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\House_sparrow_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Italy_sparrow_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Italy_sparrow_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Jackdaw_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Jackdaw_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Mallard_duck_noPause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_noPause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Mallard_duck_pause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_pause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Red_kite_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Red_kite_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Seagull_calls_inFlight
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Seagull_calls_inFlight.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Sparrow_single_calls_less
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_less.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Sparrow_single_calls_more
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_more.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Swallow_inFlight_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swallow_inFlight_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Swifts_calls_inFlight
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swifts_calls_inFlight.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Cars
+    audioItems:
+    - displayName: Car_engine_highway_1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_highway_2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_highway_3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_Gear3x
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_mashed
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_old
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_old_2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_WVTuareg
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Planes
+    audioItems:
+    - displayName: Einzelsound_Mono_FA18
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Planes\Einzelsound_Mono_FA18.aiff
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Trains
+    audioItems:
+    - displayName: Train_01_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_01_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Train_02_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_02_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Train_03_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_03_loop.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/Bahnhof_App
+    audioItems:
+    - displayName: AufGeleise6_7_Anfang
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Anfang.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleise6_7_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte_Liftfahrt
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Liftfahrt.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte_Zugabfahrt
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Zugabfahrt.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_Mitte_GA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_Mitte_GA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungBahnhofsquai_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungBahnhofsquai_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Links
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Links.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Rechts
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Rechts.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Br\xFCcke_Europalleee_01"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_01.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Br\xFCcke_Europalleee_leise_Stimmen"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_leise_Stimmen.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Grundatmo_IndenL\xFCften"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenL\xFCften.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: Shopville_Guitarsolo
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Shopville_Guitarsolo.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: UnterAnzeigetafel_01
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\UnterAnzeigetafel_01.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Untergrund_Gleis34_33
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Untergrund_Gleis34_33.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/LA_Recordings/ambix
+    audioItems:
+    - displayName: HB_Bahnhofsplatz_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Bahnhofsplatz_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Bahnhofsplatz_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/LA_Recordings/stereo
+    audioItems:
+    - displayName: HB_Central_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom5
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom5.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom5
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom5.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+  currentAudioItems:
+  - displayName: Car_engine_highway_1
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_highway_2
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_highway_3
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_Gear3x
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_mashed
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_old
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_old_2
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_WVTuareg
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+    parametersFilePath: 
+    parameters: []
+  parameterValues: []
+  _initialized: 1
+--- !u!114 &976409964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976409962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8a9a9f3ab292b45b2befbb9929177e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: {fileID: 1508451041}
+  speed: 4
+  rotationSpeed: 5
+  loopMode: 1
+  useCustomUpVector: 0
+  customUpVector: {x: 0, y: 1, z: 0}
+  distance: 0
+  pathLength: 39.827194
+--- !u!135 &976409965
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976409962}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &976409967
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976409962}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &976409968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976409962}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.004573964, y: -0.15536189, z: -0.0007193622, w: 0.9878468}
+  m_LocalPosition: {x: -1.2496738, y: 3.6456432, z: 4.287811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1213879427}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -171.836, z: 0}
 --- !u!1001 &999229536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1283,6 +2202,149 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 566d4a7cdd011ec4ba395d6c039b6e8f, type: 3}
+--- !u!4 &1136731072 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400122, guid: 9f593cbd7bb1be142ae42d4b5131603e, type: 3}
+  m_PrefabInstance: {fileID: 841105919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1213879426
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 976409968}
+    m_Modifications:
+    - target: {fileID: 100124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_Name
+      value: crow
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d0d4a67853aabd34c87abfa0fd43b68c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+--- !u!4 &1213879427 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400124, guid: 0646ceebc81f52a4e8a676e94ab46092, type: 3}
+  m_PrefabInstance: {fileID: 1213879426}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1298015106
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1298015108}
+  - component: {fileID: 1298015107}
+  m_Layer: 0
+  m_Name: Path Bird 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1298015107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298015106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6167c82791949164aa5f23a4f1f88ac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodes:
+  - localPos: {x: 4.5471716, y: -0.7643565, z: -1.2999084}
+    leftHandle: {x: 3.5471718, y: -0.7643565, z: 2.549544}
+    rightHandle: {x: 4.798603, y: -0.7643565, z: -2.2677822}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -2.3735514, y: 2.0667148, z: -9.087862}
+    leftHandle: {x: -2.636521, y: 2.0667148, z: -8.123061}
+    rightHandle: {x: -1.3735511, y: 2.0667148, z: -12.756729}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -4.187985, y: 4.014959, z: 0.21185541}
+    leftHandle: {x: -5.187985, y: 4.014959, z: -3.0700035}
+    rightHandle: {x: -3.8965106, y: 4.014959, z: 1.1684331}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -3.0984335, y: 0, z: 5.3745365}
+    leftHandle: {x: -4.0984335, y: 0, z: 5.3745365}
+    rightHandle: {x: -2.0984335, y: 0, z: 5.3745365}
+    orientation: 0
+    tangentType: 0
+  selectedId: 0
+  handleMulti: 0.2
+  closeLoop: 1
+  showUpVector: 1
+  lastPos: {x: -2.3735514, y: 2.0667148, z: -9.087862}
+  lastLeftHandlePos: {x: -2.636521, y: 2.0667148, z: -8.123061}
+  lastRightHandlePos: {x: -1.3735514, y: 2.0667148, z: -12.756729}
+--- !u!4 &1298015108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298015106}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.61738294, z: -0, w: 0.7866628}
+  m_LocalPosition: {x: 6.55, y: 5.95, z: 10.15}
+  m_LocalScale: {x: 2.6238, y: 1, z: 1.3898}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -76.251, z: 0}
 --- !u!1001 &1337599367
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1598,6 +2660,78 @@ MonoBehaviour:
   selectedFoliageTypeIndex: 1
   leavesTreeSize: 2.83
   sourceSelection: 4
+--- !u!1 &1508451040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1508451042}
+  - component: {fileID: 1508451041}
+  m_Layer: 0
+  m_Name: Path Bird
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1508451041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1508451040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6167c82791949164aa5f23a4f1f88ac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodes:
+  - localPos: {x: 4.5471716, y: -0.7643565, z: -1.2999084}
+    leftHandle: {x: 3.5471718, y: -0.7643565, z: 2.549544}
+    rightHandle: {x: 4.798603, y: -0.7643565, z: -2.2677822}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -2.3735514, y: 2.0667148, z: -9.087862}
+    leftHandle: {x: -2.636521, y: 2.0667148, z: -8.123061}
+    rightHandle: {x: -1.3735511, y: 2.0667148, z: -12.756729}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -4.187985, y: 4.014959, z: 0.21185541}
+    leftHandle: {x: -5.187985, y: 4.014959, z: -3.0700035}
+    rightHandle: {x: -3.8965106, y: 4.014959, z: 1.1684331}
+    orientation: 0
+    tangentType: 0
+  - localPos: {x: -3.0984335, y: 0, z: 5.3745365}
+    leftHandle: {x: -4.0984335, y: 0, z: 5.3745365}
+    rightHandle: {x: -2.0984335, y: 0, z: 5.3745365}
+    orientation: 0
+    tangentType: 0
+  selectedId: 0
+  handleMulti: 0.2
+  closeLoop: 1
+  showUpVector: 1
+  lastPos: {x: -2.3735514, y: 2.0667148, z: -9.087862}
+  lastLeftHandlePos: {x: -2.636521, y: 2.0667148, z: -8.123061}
+  lastRightHandlePos: {x: -1.3735514, y: 2.0667148, z: -12.756729}
+--- !u!4 &1508451042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1508451040}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.1372325, z: -0, w: 0.99053884}
+  m_LocalPosition: {x: -12.24, y: 4.41, z: 9.27}
+  m_LocalScale: {x: 2.6238, y: 1, z: 1.3898}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 15.775, z: 0}
 --- !u!1 &1725314583
 GameObject:
   m_ObjectHideFlags: 0
@@ -1983,6 +3117,864 @@ MonoBehaviour:
   selectedFoliageTypeIndex: 1
   leavesTreeSize: 2.83
   sourceSelection: 4
+--- !u!1 &1907077894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1907077900}
+  - component: {fileID: 1907077899}
+  - component: {fileID: 1907077897}
+  - component: {fileID: 1907077896}
+  - component: {fileID: 1907077895}
+  m_Layer: 0
+  m_Name: Bird 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1907077895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907077894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaa0194818449e46833a5f44dba5189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sourceTypes:
+  - mono
+  - stereo
+  - multi
+  _cacheFilePath: Assets/AudioDataCache.json
+  selectedCategoryIndex: 2
+  selectedCategoryName: Birds
+  selectedAudioIndex: 1
+  selectedAudioName: Blue_tit_calls
+  sourceTypeSelection: 0
+  sourceSelection: 3
+  multiSize: 1
+  monoSources: 16
+  stereoSources: 8
+  multiSources: 3
+  audioLibrary:
+    monoSources: 16
+    stereoSources: 8
+    ambisonicSources: 3
+    rootFolderPath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary
+    categories:
+    - categoryName: Ambisonics
+      audioItems:
+      - displayName: Atmo_InnerCity_ZH_Rain
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Atmo_InnerCity_ZH_Rain_Thunder
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain_Thunder.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Rain_6min_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Rain_6min_loop.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Birds
+      audioItems:
+      - displayName: Blackbirds_calls_alarm
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blackbirds_calls_alarm.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Blue_tit_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blue_tit_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Crow_single_calls_less
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_less.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Crow_single_calls_more
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_more.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Eurasian_collared_dove_calls_noPause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_noPause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Eurasian_collared_dove_calls_pause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_pause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: House_sparrow_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\House_sparrow_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Italy_sparrow_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Italy_sparrow_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Jackdaw_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Jackdaw_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Mallard_duck_noPause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_noPause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Mallard_duck_pause
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_pause.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Red_kite_calls
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Red_kite_calls.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Seagull_calls_inFlight
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Seagull_calls_inFlight.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Sparrow_single_calls_less
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_less.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Sparrow_single_calls_more
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_more.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Swallow_inFlight_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swallow_inFlight_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Swifts_calls_inFlight
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swifts_calls_inFlight.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Cars
+      audioItems:
+      - displayName: Car_engine_highway_1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_highway_2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_highway_3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_Gear3x
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_mashed
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_old
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_old_2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Car_engine_low_WVTuareg
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Planes
+      audioItems:
+      - displayName: Einzelsound_Mono_FA18
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Planes\Einzelsound_Mono_FA18.aiff
+        parametersFilePath: 
+        parameters: []
+    - categoryName: Trains
+      audioItems:
+      - displayName: Train_01_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_01_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Train_02_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_02_loop.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Train_03_loop
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_03_loop.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/Bahnhof_App
+      audioItems:
+      - displayName: AufGeleise6_7_Anfang
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Anfang.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleise6_7_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte_Liftfahrt
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Liftfahrt.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: AufGeleis_Mitte_Zugabfahrt
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Zugabfahrt.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_Mitte_GA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_Mitte_GA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungBahnhofsquai_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungBahnhofsquai_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Links
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Links.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Mitte
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Mitte.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Banhofshalle_RichtungGeleise_Rechts
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Rechts.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Br\xFCcke_Europalleee_01"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_01.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Br\xFCcke_Europalleee_leise_Stimmen"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_leise_Stimmen.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: "Grundatmo_IndenL\xFCften"
+        audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenL\xFCften.wav"
+        parametersFilePath: 
+        parameters: []
+      - displayName: Shopville_Guitarsolo
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Shopville_Guitarsolo.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: UnterAnzeigetafel_01
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\UnterAnzeigetafel_01.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: Untergrund_Gleis34_33
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Untergrund_Gleis34_33.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/LA_Recordings/ambix
+      audioItems:
+      - displayName: HB_Bahnhofsplatz_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Bahnhofsplatz_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Bahnhofsplatz_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoA
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoA.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoB
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoB.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_AmbeoC
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoC.wav
+        parametersFilePath: 
+        parameters: []
+    - categoryName: ZuerichHB/LA_Recordings/stereo
+      audioItems:
+      - displayName: HB_Central_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom5
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom5.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Central_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Europaplatz_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Landesmuseum_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom1
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom1.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom2
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom2.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom3
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom3.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom4
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom4.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom5
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom5.wav
+        parametersFilePath: 
+        parameters: []
+      - displayName: HB_Zollstrasse_Zoom6
+        audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom6.wav
+        parametersFilePath: 
+        parameters: []
+  categories:
+  - categoryName: Ambisonics
+    audioItems:
+    - displayName: Atmo_InnerCity_ZH_Rain
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Atmo_InnerCity_ZH_Rain_Thunder
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Atmo_InnerCity_ZH_Rain_Thunder.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Rain_6min_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Ambisonics\Rain_6min_loop.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Birds
+    audioItems:
+    - displayName: Blackbirds_calls_alarm
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blackbirds_calls_alarm.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Blue_tit_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Blue_tit_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Crow_single_calls_less
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_less.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Crow_single_calls_more
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Crow_single_calls_more.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Eurasian_collared_dove_calls_noPause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_noPause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Eurasian_collared_dove_calls_pause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Eurasian_collared_dove_calls_pause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: House_sparrow_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\House_sparrow_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Italy_sparrow_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Italy_sparrow_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Jackdaw_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Jackdaw_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Mallard_duck_noPause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_noPause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Mallard_duck_pause
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Mallard_duck_pause.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Red_kite_calls
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Red_kite_calls.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Seagull_calls_inFlight
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Seagull_calls_inFlight.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Sparrow_single_calls_less
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_less.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Sparrow_single_calls_more
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Sparrow_single_calls_more.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Swallow_inFlight_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swallow_inFlight_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Swifts_calls_inFlight
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Birds\Swifts_calls_inFlight.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Cars
+    audioItems:
+    - displayName: Car_engine_highway_1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_highway_2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_highway_3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_Gear3x
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_mashed
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_old
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_old_2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Car_engine_low_WVTuareg
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Planes
+    audioItems:
+    - displayName: Einzelsound_Mono_FA18
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Planes\Einzelsound_Mono_FA18.aiff
+      parametersFilePath: 
+      parameters: []
+  - categoryName: Trains
+    audioItems:
+    - displayName: Train_01_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_01_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Train_02_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_02_loop.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Train_03_loop
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Trains\Train_03_loop.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/Bahnhof_App
+    audioItems:
+    - displayName: AufGeleise6_7_Anfang
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Anfang.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleise6_7_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleise6_7_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte_Liftfahrt
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Liftfahrt.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: AufGeleis_Mitte_Zugabfahrt
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\AufGeleis_Mitte_Zugabfahrt.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_Mitte_GA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_Mitte_GA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungBahnhofsquai_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungBahnhofsquai_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Links
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Links.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Mitte
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Mitte.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Banhofshalle_RichtungGeleise_Rechts
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Banhofshalle_RichtungGeleise_Rechts.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Br\xFCcke_Europalleee_01"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_01.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Br\xFCcke_Europalleee_leise_Stimmen"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Br\xFCcke_Europalleee_leise_Stimmen.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: "Grundatmo_IndenL\xFCften"
+      audioFilePath: "D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\\ZuerichHB\\Bahnhof_App\\Grundatmo_IndenL\xFCften.wav"
+      parametersFilePath: 
+      parameters: []
+    - displayName: Shopville_Guitarsolo
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Shopville_Guitarsolo.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: UnterAnzeigetafel_01
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\UnterAnzeigetafel_01.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: Untergrund_Gleis34_33
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\Bahnhof_App\Untergrund_Gleis34_33.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/LA_Recordings/ambix
+    audioItems:
+    - displayName: HB_Bahnhofsplatz_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Bahnhofsplatz_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Bahnhofsplatz_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Bahnhofsplatz_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Central_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Europaplatz_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Landesmuseum_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoA
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoA.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoB
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoB.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_AmbeoC
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\ambix\HB_Zollstrasse_AmbeoC.wav
+      parametersFilePath: 
+      parameters: []
+  - categoryName: ZuerichHB/LA_Recordings/stereo
+    audioItems:
+    - displayName: HB_Central_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom5
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom5.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Central_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Central_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Europaplatz_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Europaplatz_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Landesmuseum_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Landesmuseum_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom1
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom1.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom2
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom2.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom3
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom3.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom4
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom4.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom5
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom5.wav
+      parametersFilePath: 
+      parameters: []
+    - displayName: HB_Zollstrasse_Zoom6
+      audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\ZuerichHB\LA_Recordings\stereo\HB_Zollstrasse_Zoom6.wav
+      parametersFilePath: 
+      parameters: []
+  currentAudioItems:
+  - displayName: Car_engine_highway_1
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_1.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_highway_2
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_2.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_highway_3
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_highway_3.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_Gear3x
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_Gear3x.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_mashed
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_mashed.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_old
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_old_2
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_old_2.wav
+    parametersFilePath: 
+    parameters: []
+  - displayName: Car_engine_low_WVTuareg
+    audioFilePath: D:/Downloads/Europaplatz_Example_All/03_ISG_AudioLibrary\Cars\Car_engine_low_WVTuareg.wav
+    parametersFilePath: 
+    parameters: []
+  parameterValues: []
+  _initialized: 1
+--- !u!114 &1907077896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907077894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8a9a9f3ab292b45b2befbb9929177e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: {fileID: 1298015107}
+  speed: 4
+  rotationSpeed: 5
+  loopMode: 1
+  useCustomUpVector: 0
+  customUpVector: {x: 0, y: 1, z: 0}
+  distance: 0
+  pathLength: 39.827194
+--- !u!135 &1907077897
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907077894}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &1907077899
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907077894}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1907077900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907077894}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.004573964, y: -0.15536189, z: -0.0007193622, w: 0.9878468}
+  m_LocalPosition: {x: 11.140532, y: 5.185643, z: 21.309593}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1136731072}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0.326, y: 110.066, z: -0.418}
 --- !u!1 &1914583020
 GameObject:
   m_ObjectHideFlags: 0
@@ -2205,3 +4197,7 @@ SceneRoots:
   - {fileID: 843777454}
   - {fileID: 1725314584}
   - {fileID: 1116859533}
+  - {fileID: 1508451042}
+  - {fileID: 976409968}
+  - {fileID: 1298015108}
+  - {fileID: 1907077900}
