@@ -118,6 +118,8 @@ public class SoundSourceAudio : SoundSource
     {
         enableAudio = true;
         UpdateStatus();
+        //Update SoundFile everytime the object is enabled
+        UpdateSoundFile();
     }
 
     private void OnDisable()
