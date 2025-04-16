@@ -86,11 +86,17 @@ The Scene manager is inside the settings prefab which should always be added to 
 ## Sample Scene Walkthrough 
 <img alt="Screenshot of the sample scene" src="/docs/images/Sample_Scene.png" />
 The sample scene showcases the two main components in action: Sound Source Generator and Sound Source Audio Component and can be used as a starting point since it already includes the necessary components for the communication between Unity and Max.
+
 ### Forest
+<img alt="Screenshot of the sample scene" src="/docs/images/Sample_Scene_Forest.png" />
 Showcases on how multiple trees together can be used to create a forest sound generator. Only the parent object needs to have a sound source and it will automatically calculate the size of the forest based on how big the area is that the child trees cover.
+
 ### Water
+<img alt="Screenshot of the sample scene" src="/docs/images/Sample_Scene_Water.png" />
 Showcases how the sound generator can be used for rivers (set to flow type)
+
 ### Bird & Path Bird
+<img alt="Screenshot of the sample scene" src="/docs/images/Sample_Scene_Bird.png" />
 Showcases how the sound source audio can be used for moving objects as well. In this case Bird has the sound source audio component and visual representation and is linked to the path object that moves the bird object. The sound location gets adjusted and updated automatically.
 
 
