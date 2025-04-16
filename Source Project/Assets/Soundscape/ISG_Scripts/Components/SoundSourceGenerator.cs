@@ -118,8 +118,28 @@ public class SoundSourceGenerator : SoundSource
 
     private void OnEnable()
     {
+        // Delay the "enable" logic by one frame to avoid conflict with switching other GameObjects off
+        StartCoroutine(DelayedEnableMessages());
+    }
+
+    private System.Collections.IEnumerator DelayedEnableMessages()
+    {
+        yield return null; // Wait 1 frame
+
         enableGenerator = true;
 
+        lastSentEnableGenerator = false;
+        lastSentSelectedGeneratorTypeIndex = -1;
+        lastSentSelectedFoliageTypeIndex = -1;
+        lastSentLeavesTreeSize = float.MinValue;
+        lastSentSelectedWaterTypeIndex = -1;
+        lastSentSplashingTime = float.MinValue;
+        lastSentSplashingBreak = float.MinValue;
+        lastSentSize = float.MinValue;
+        lastSentForestWidth = 0f;
+        lastSentForestCenter = Vector3.zero;
+
+        Debug.Log($"[{gameObject.name}] Sending delayed enable OSC messages...");
         SendMessages();
     }
 
@@ -240,9 +260,10 @@ public class SoundSourceGenerator : SoundSource
 
        // Debug.Log($"[SendMessages] genType={genType}, SourceSelection={SourceSelection}, customSourceValue={customSourceValue}");
 
-        // Send the "status" if changed
         if (lastSentEnableGenerator != enableGenerator)
         {
+            Debug.Log($"[OSC] Sending status {enableGenerator} to {sourceBase}/{genType}/{customSourceValue}/status");
+
             OscMessage statusMsg = new OscMessage
             {
                 address = $"{sourceBase}/{genType}/{customSourceValue}/status"
@@ -252,6 +273,7 @@ public class SoundSourceGenerator : SoundSource
 
             lastSentEnableGenerator = enableGenerator;
         }
+
 
         // If not enabled, no need to send rest
         if (!enableGenerator) return;
